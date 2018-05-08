@@ -12,7 +12,7 @@ import android.os.storage.StorageManager;
 import android.provider.MediaStore;
 import android.text.TextUtils;
 
-import com.genvict.library.log.DLog;
+import com.wangjf.library.log.DLog;
 
 import java.io.BufferedReader;
 import java.io.ByteArrayInputStream;
